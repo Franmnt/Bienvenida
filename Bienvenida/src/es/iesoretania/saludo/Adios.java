@@ -5,7 +5,8 @@ public class Adios {
 		// TODO Auto-generated method stub
 			
 		System.out.println(" Adios Mundo !! ");
-	
+		
+		System.out.println("Hola");
 		
 		
 	}
