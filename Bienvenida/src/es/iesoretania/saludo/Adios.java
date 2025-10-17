@@ -8,7 +8,9 @@ public class Adios {
 		
 		System.out.println("Hola");
 		
+		System.out.println("Hola");
 		
+		System.out.println("Hola");
 	}
 
 }
